@@ -1,0 +1,14 @@
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\bin\Debug\Erp.exe.config
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\bin\Debug\Erp.exe
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\bin\Debug\Erp.pdb
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\bin\Debug\EntityFramework.dll
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\bin\Debug\EntityFramework.xml
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\obj\Debug\Erp.csprojResolveAssemblyReference.cache
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\obj\Debug\Erp.Form1.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\obj\Debug\Erp.Properties.Resources.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\obj\Debug\Erp.csproj.GenerateResource.Cache
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\obj\Debug\Erp.exe
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\obj\Debug\Erp.pdb
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Erp\Erp\obj\Debug\Erp.Form2.resources

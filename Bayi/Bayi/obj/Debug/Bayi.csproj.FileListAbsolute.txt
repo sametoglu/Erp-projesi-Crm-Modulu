@@ -1,0 +1,13 @@
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\bin\Debug\Bayi.exe.config
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\bin\Debug\Bayi.exe
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\bin\Debug\Bayi.pdb
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\bin\Debug\EntityFramework.dll
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\bin\Debug\EntityFramework.xml
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\obj\Debug\Bayi.csprojResolveAssemblyReference.cache
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\obj\Debug\Bayi.Form1.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\obj\Debug\Bayi.Properties.Resources.resources
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\obj\Debug\Bayi.csproj.GenerateResource.Cache
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\obj\Debug\Bayi.exe
+C:\Users\samet\Documents\Visual Studio 2013\Projects\Bayi\Bayi\obj\Debug\Bayi.pdb
